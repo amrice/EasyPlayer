@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@easydarwin/easywasmplayer": "^4.0.7"
+  }
+}
